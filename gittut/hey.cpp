@@ -12,5 +12,5 @@ int main()
     
     }
     else
-    cout<<"booo you should have chosen 2";
+    cout<<"booo go choose 2";
 }
