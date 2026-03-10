@@ -1,1 +1,1 @@
-someone just finisht learning the basics of git and created her first repository ayyy!!!
+someone just finisht learning the basics of git and github and created her first repository ayyy!!!
