@@ -6,11 +6,11 @@ int main()
     int a;
     cout<<"enter a number";
     cin>>a;
-    if(a==12)
+    if(a==4)
     {
         cout<<"YAY U GO QUEEN";
     
     }
     else
-    cout<<"booo go choose 12";
+    cout<<"booo go choose 4";
 }
